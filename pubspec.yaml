@@ -63,8 +63,11 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/firstscreen.jpg
- #   - assets/images/undraw_mobile_analytics_81nn.png
+    - assets/images/splash.jpg
+    - assets/images/task.png
+    - assets/images/task2.png
+    - assets/images/task3.png
+  #  - assets/images/undraw_mobile_analytics_81nn.png
   #  - assets/images/undraw_watch_app_h8ga.png
 
   #   - images/a_dot_ham.jpeg
