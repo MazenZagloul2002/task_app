@@ -38,6 +38,7 @@ dependencies:
   flex_color_picker: ^3.5.1
   sqflite: ^2.3.3+1
   flutter_bloc: ^8.1.6
+  path: ^1.9.0
 
 dev_dependencies:
   flutter_test:

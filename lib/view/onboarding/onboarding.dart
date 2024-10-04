@@ -59,8 +59,10 @@ press on "continue" button it will navigate to next screen
                   } else if (currentKey == 'task2') {
                     currentKey = 'task3';
                   } else if (currentKey == 'task3') {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (builder) => LoginScreen()));
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (builder) => SignUpScreen()));
                   } else {
                     currentKey = 'task'; // default key
                   }
